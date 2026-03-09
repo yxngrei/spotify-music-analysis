@@ -6,7 +6,7 @@ a highly streamed song from the rest. This project analyses 953 of Spotify's
 most streamed songs using SQL, Python, and Tableau to uncover patterns in audio 
 features, release timing, and artist behaviour across streaming platforms.
 
-📊 [View the Tableau Dashboard](https://public.tableau.com/app/profile/reiner.rillo/viz/SpotifyData_17727456052110/Dashboard1)
+📊 [View the Tableau Dashboard](https://public.tableau.com/app/profile/reiner.rillo/viz/WhatMakesaSongStreamAnalysing953SpotifyHits/Dashboard1)
 
 ## Tools Used
 - **BigQuery** — data storage and SQL analysis

@@ -53,10 +53,3 @@ Across mood, energy, danceability, and release timing — the data consistently
 points in one direction. **Streaming rewards emotional depth over energy.** 
 The anatomy of a highly streamed song is restrained, melancholic, and released 
 in autumn or January.
-
-## How to Run
-1. Clone this repo
-2. Download the dataset from Kaggle and place in `/data`
-3. Run `load_data.py` to load into your database
-4. Open `analysis.ipynb` for the Python EDA
-5. SQL queries are in `/sql/queries.sql`
